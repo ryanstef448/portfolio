@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This repository contains the source code for m
 
 ## Sections
 - **Home**: A brief introduction and welcome.
-- **About Me**: My background, education (Penn State University), and passion for data.
+- **About Me**: My background, education (B.S. in Applied Data Sciences from Penn State University), and passion for data.
 - **Projects**: A curated list of projects with links to their respective repositories/source code.
 - **Skills**: A summary of my technical toolkit, including Python, SQL, and NLP.
 - **Contact**: How to reach me for collaborations or inquiries.
